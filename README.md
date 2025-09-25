@@ -79,21 +79,4 @@ youtube-comment-sentimental-analysis/
 ├─ requirements.txt       # Python dependencies
 ├─ .streamlit/secrets.toml # YouTube API key
 └─ README.md
-Notes
-Make sure your YouTube API key has access to YouTube Data API v3.
 
-The app uses VADER sentiment analysis, which works best for English comments.
-
-For local testing, you can temporarily put your API key directly in YoutubeCommentScrapper.py if you don’t want to use st.secrets.
-
-License
-This project is open-source and available under the MIT License.
-
-yaml
-Copy code
-
----
-
-I can also create a **more concise, visually appealing version with badges and GIF demo placeholders** if you want your GitHub repo to look very professional.  
-
-Do you want me to make that enhanced version?
